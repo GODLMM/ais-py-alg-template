@@ -1,0 +1,1 @@
+python test/testMain.py
